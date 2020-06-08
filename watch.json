@@ -1,0 +1,18 @@
+{
+  "restart": {
+    "exclude": [
+      "^commands/",
+      "^events/",
+      "^public/",
+      "^structures/",
+      "^views/",
+      "^server\\.js",
+      "^loader\\.js",
+      "^config\\.js",
+      "^constants\\.js",
+      "^dbChanges\\.js",
+      "^actions/",
+      "^data/"
+    ]         
+  }
+}            

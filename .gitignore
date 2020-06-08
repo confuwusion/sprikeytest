@@ -1,0 +1,4 @@
+.glitch-assets
+data/
+node_modules/
+shrinkwrap.yaml
